@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Task1Classwork/app/src/main/res/layout/activity_forlistview.xml" value="0.358695652173913" />
         <entry key="..\:/Task1Classwork/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Task1Classwork/app/src/main/res/layout/activity_readcars.xml" value="0.5" />
+        <entry key="..\:/Task1Classwork/app/src/main/res/layout/activity_readcars.xml" value="0.25" />
+        <entry key="..\:/Task1Classwork/app/src/main/res/layout/activity_readcars2.xml" value="0.358695652173913" />
         <entry key="..\:/Task1Classwork/app/src/main/res/layout/read_cars.xml" value="0.2640625" />
       </map>
     </option>
